@@ -5,9 +5,9 @@ public class Cal {
 	public static void main(String[] args) {
 		double ans;
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Enter the First Number:");
+		System.out.println("Enter the 1st Number:");
 		double first = sc.nextDouble();
-		System.out.println("Enter the Second Number:");
+		System.out.println("Enter the 2nd Number:");
 		double second = sc.nextDouble();
 		System.out.println("Enter the Operator:");
 		char oper = sc.next().charAt(0);
