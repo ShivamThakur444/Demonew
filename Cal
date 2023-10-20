@@ -24,7 +24,7 @@ public class Cal {
 		return;
 		}
 		if(second == 0){
-			System.out.println("Result is 0");
+			System.out.println("Result is zero");
 		}
 		else {
 		System.out.println("Result is " + ans);
